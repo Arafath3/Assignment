@@ -145,6 +145,12 @@ body {
     text-decoration-line: underline;
     margin-bottom: 128px;
 }
+.extra1{
+    margin-left: 90px;
+}
+.extra2{
+    margin-right: 90px;
+}
 
 /* Icon section */
 .new-section {
