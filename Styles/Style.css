@@ -142,3 +142,30 @@ main {
     font-weight: 700;
     text-decoration-line: underline;
 }
+
+/* Icon section */
+.new-section {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-top: 128px;
+    padding: 100px;
+}
+
+.options {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.icons {
+    text-align: center;
+    width: 88px;
+    height: 88px;
+
+}
+
+.icon-description {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 18px;
+    font-weight: 600;
+}
