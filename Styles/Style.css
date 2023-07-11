@@ -1,0 +1,70 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    padding: 20px 40px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* banner Section start */
+.header {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 30px 0px 230px;
+}
+
+.banner-class {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    /* padding: 200px 970px 365px 240px; */
+}
+
+.banner-description {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+
+}
+
+.banner-container .banner-img {
+    width: 635px;
+    height: 800px;
+}
+
+/* Flower featured starts */
+.featured {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 180px;
+}
+.featured-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin-top: 24px;
+padding: 0px 663px 0px 663px;
+}
