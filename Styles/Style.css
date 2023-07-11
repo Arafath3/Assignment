@@ -52,6 +52,12 @@ body {
     height: 800px;
 }
 
+main {
+    width: 1440px;
+    margin: 0px auto;
+
+}
+
 /* Flower featured starts */
 .featured {
     color: #272727;
@@ -67,8 +73,8 @@ body {
     font-size: 18px;
     font-weight: 400;
     margin-top: 24px;
-    padding: 0px 663px 0px 663px;
-    margin-bottom: 160px;
+
+    margin-bottom: 48px;
 }
 
 .flowerbox {
@@ -112,7 +118,7 @@ body {
     border-radius: 350px 350px 0px 0px;
     padding: 20px;
     background: rgba(71, 125, 17, 0.15);
-    
+
 
 }
 
@@ -120,4 +126,19 @@ body {
     width: 314px;
     height: 471px;
     padding: 65px 75px 0px 75px;
+}
+
+.flower-names {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.flower-name {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
 }
